@@ -1,0 +1,1 @@
+[![Close stale issues and PRs](https://github.com/ethereum-lists/chains/actions/workflows/stale.yml/badge.svg?branch=master&event=check_run)](https://github.com/ethereum-lists/chains/actions/workflows/stale.yml)
